@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Squat and Walk",
+    "time": "45 seconds",
+    "thumbnail": "assets/squat1.jpg",
+    "videoUrl": "https://media.istockphoto.com/videos/sporty-woman-exercising-building-muscles-at-the-gym-video-id1165010886"
+  },
+  {
+    "title": "Legs Workout",
+    "time": "55 seconds",
+    "thumbnail": "assets/squat2.jpg",
+    "videoUrl": "https://media.istockphoto.com/videos/medium-shot-and-low-angle-young-asian-fit-woman-use-water-bottle-video-id1271364431"
+  },
+  {
+    "title": "Legs Workout",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": "https://media.istockphoto.com/videos/sporty-woman-exercising-building-muscles-at-the-gym-video-id1187633670"
+  },
+  {
+    "title": "Legs Workout",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": "https://media.istockphoto.com/videos/young-woman-doing-kettlebell-goblet-squats-video-id819402624"
+  }
+]
